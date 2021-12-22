@@ -1,0 +1,15 @@
+--Ex. 1
+SELECT * 
+FROM Shippers
+
+--Ex. 2
+SELECT 
+CategoryName, Description 
+FROM Categories
+
+--Ex. 3
+SELECT 
+FirstName, LastName, HireDate FROM Employees 
+Where Title = 'Sales Representative';
+
+--Ex. 5
